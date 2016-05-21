@@ -1,1 +1,3 @@
-COming soon
+Coming soon
+
+NOTE: THIS COMPONENT IS NOT YET TESTED IN THIS FORM - DO NOT USE!!!
