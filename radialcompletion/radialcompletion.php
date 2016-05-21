@@ -31,13 +31,13 @@
     .radial-progress,
     .radial-grade {
         @circle-size: 120px;
-        @circle-background: @gray-lighter;
-        @circle-color: @brand-success;
+        @circle-background: #ccccccc;
+        @circle-color: #1aa610;
         @inset-size: 90px;
-        @inset-color: @white;
+        @inset-color: #fff;
         @transition-length: 1s;
         @shadow: 6px 6px 10px rgba(0,0,0,0.25);
-        @percentage-color: @brand-success;
+        @percentage-color: #1aa610;
         @percentage-font-size: 22px;
         @percentage-text-width: 57px;
         margin: 50px;
