@@ -10,6 +10,11 @@ theme does not already have one.
 
 Add <?php include ('radialcompletion.php');?> to your layout file where you want the radialcompletion to appear.
 
-
+@credits
+https://moodle.org/mod/forum/discuss.php?d=314373#p1319920 - Jerome Di Pietro, 
+for first making this into a block and posting it in the Moodle forums
+(I simply converted his work into a 'component' usable within Theme code)
+That link also provides upstream credit for the work originally done to create
+the radial block effect by @andsens
 
 
