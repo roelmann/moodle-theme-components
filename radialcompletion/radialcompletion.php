@@ -31,7 +31,7 @@
     .radial-progress,
     .radial-grade {
         @circle-size: 120px;
-        @circle-background: #ccccccc;
+        @circle-background: #cccccc;
         @circle-color: #1aa610;
         @inset-size: 90px;
         @inset-color: #fff;
